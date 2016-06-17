@@ -17,7 +17,7 @@ recipes.addShapeless(<terrafirmacraft:item.Hide:2>, [<contenttweaker:needleOfBon
 recipes.addShapeless(<terrafirmacraft:item.Hide:1>, [<contenttweaker:needleOfBone>, <terrafirmacraft:item.Hide>, <terrafirmacraft:item.Hide>, <minecraft:string>, <minecraft:string>]);
 // ================================================================================
 //#MARKER ADD SHAPELESS
-
+recipes.addShapeless(<minecraft:stonebrick>, [<ore:stoneBricks>]);
 // ================================================================================
 //#MARKER ADD SHAPED
 recipes.addShaped(<terrafirmacraft:item.coal:1>, [[<ore:gemCharcoal>]]);
